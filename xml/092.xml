@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helm</folder>
+	<filename>092.jpg</filename>
+	<path>C:\Users\1\Desktop\Image\helm\092.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>610</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>68</ymin>
+			<xmax>874</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>
